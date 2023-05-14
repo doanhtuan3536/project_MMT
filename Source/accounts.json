@@ -1,0 +1,113 @@
+[
+  {
+    "username": "tuando",
+    "password": "123",
+    "bankcode": "1234567891",
+    "Booked room": [
+      {
+        "IDhotel": 0,
+        "Booked": {
+          "DateEntry": [
+            2022,
+            6,
+            15
+          ],
+          "Date of leaving": [
+            2022,
+            6,
+            18
+          ],
+          "Booked": [
+            0,
+            1,
+            2
+          ]
+        },
+        "price": 385
+      },
+      {
+        "IDhotel": 0,
+        "Booked": {
+          "DateEntry": [
+            2022,
+            6,
+            15
+          ],
+          "Date of leaving": [
+            2022,
+            6,
+            18
+          ],
+          "Booked": [
+            3,
+            4
+          ]
+        },
+        "price": 175
+      }
+    ]
+  },
+  {
+    "username": "tungthanh",
+    "password": "123",
+    "bankcode": "1234567892",
+    "Booked room": [
+      {
+        "IDhotel": 0,
+        "Booked": {
+          "DateEntry": [
+            2022,
+            3,
+            12
+          ],
+          "Date of leaving": [
+            2022,
+            4,
+            15
+          ],
+          "Booked": [
+            2,
+            3
+          ]
+        },
+        "price": 200
+      }
+    ]
+  },
+  {
+    "username": "hoahong",
+    "password": "123",
+    "bankcode": "1234567893",
+    "Booked room": []
+  },
+  {
+    "username": "thanhoa",
+    "password": "123",
+    "bankcode": "1234567894",
+    "Booked room": []
+  },
+  {
+    "username": "hoahongnguochuong",
+    "password": "123",
+    "bankcode": "1234567895",
+    "Booked room": []
+  },
+  {
+    "username": "jaytran",
+    "password": "123",
+    "bankcode": "1233445561",
+    "Booked room": []
+  },
+  {
+    "username": "jkey1",
+    "password": "123",
+    "bankcode": "1234567897",
+    "Booked room": []
+  },
+  {
+    "username": "anhtuan",
+    "password": "123",
+    "bankcode": "1234567891",
+    "Booked room": []
+  }
+]

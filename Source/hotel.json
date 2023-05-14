@@ -1,0 +1,482 @@
+[
+  {
+    "IDhotel": 0,
+    "name": "CLARA",
+    "Price": {
+      "Standard Room": 50,
+      "Superior Room": 100,
+      "Single Bed": 25,
+      "Double Bed": 30,
+      "Twin Bed": 50
+    },
+    "BlankRoom": [
+      5
+    ],
+    "Booked": [
+      {
+        "IDroom": 0,
+        "ListBookedClient": [
+          {
+            "username": "tuando",
+            "DateEntry": [
+              2022,
+              6,
+              15
+            ],
+            "Date of leaving": [
+              2022,
+              6,
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "IDroom": 1,
+        "ListBookedClient": [
+          {
+            "username": "tuando",
+            "DateEntry": [
+              2022,
+              6,
+              15
+            ],
+            "Date of leaving": [
+              2022,
+              6,
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "IDroom": 2,
+        "ListBookedClient": [
+          {
+            "username": "tuando",
+            "DateEntry": [
+              2022,
+              6,
+              15
+            ],
+            "Date of leaving": [
+              2022,
+              6,
+              18
+            ]
+          },
+          {
+            "username": "tungthanh",
+            "DateEntry": [
+              2022,
+              3,
+              12
+            ],
+            "Date of leaving": [
+              2022,
+              4,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "IDroom": 3,
+        "ListBookedClient": [
+          {
+            "username": "tuando",
+            "DateEntry": [
+              2022,
+              6,
+              15
+            ],
+            "Date of leaving": [
+              2022,
+              6,
+              18
+            ]
+          },
+          {
+            "username": "tungthanh",
+            "DateEntry": [
+              2022,
+              3,
+              12
+            ],
+            "Date of leaving": [
+              2022,
+              4,
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "IDroom": 4,
+        "ListBookedClient": [
+          {
+            "username": "tuando",
+            "DateEntry": [
+              2022,
+              6,
+              15
+            ],
+            "Date of leaving": [
+              2022,
+              6,
+              18
+            ]
+          }
+        ]
+      }
+    ],
+    "Standard Room": [
+      3,
+      4,
+      5
+    ],
+    "Superior Room": [
+      0,
+      1,
+      2
+    ],
+    "Single Bed": [
+      2,
+      3
+    ],
+    "Double Bed": [
+      0,
+      1
+    ],
+    "Twin Bed": [
+      4,
+      5
+    ],
+    "ListRoom": [
+      {
+        "IDroom": 0,
+        "TypeRoom": "Superior Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull room",
+        "Price": 130,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 1,
+        "TypeRoom": "Superior Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 130,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 2,
+        "TypeRoom": "Superior Room",
+        "Bed": "Single Bed",
+        "Describe": "it's a beautifull",
+        "Price": 125,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 3,
+        "TypeRoom": "Standard Room",
+        "Bed": "Single Bed",
+        "Describe": "it's lovely",
+        "Price": 75,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 4,
+        "TypeRoom": "Standard Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 100,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 5,
+        "TypeRoom": "Standard Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 100,
+        "image": "tree.png"
+      }
+    ]
+  },
+  {
+    "IDhotel": 1,
+    "name": "PROHIF",
+    "Price": {
+      "Standard Room": 75,
+      "Superior Room": 100,
+      "Single Bed": 30,
+      "Double Bed": 35,
+      "Twin Bed": 55
+    },
+    "BlankRoom": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "Booked": [],
+    "Standard Room": [
+      3,
+      4,
+      5
+    ],
+    "Superior Room": [
+      0,
+      1,
+      2
+    ],
+    "Single Bed": [
+      2,
+      3
+    ],
+    "Double Bed": [
+      0,
+      1
+    ],
+    "Twin Bed": [
+      4,
+      5
+    ],
+    "ListRoom": [
+      {
+        "IDroom": 0,
+        "TypeRoom": "Superior Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull lovely room",
+        "Price": 135,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 1,
+        "TypeRoom": "Superior Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 135,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 2,
+        "TypeRoom": "Superior Room",
+        "Bed": "Single Bed",
+        "Describe": "it's a beautifull",
+        "Price": 130,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 3,
+        "TypeRoom": "Standard Room",
+        "Bed": "Single Bed",
+        "Describe": "it's lovely",
+        "Price": 105,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 4,
+        "TypeRoom": "Standard Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 130,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 5,
+        "TypeRoom": "Standard Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 130,
+        "image": "tree.png"
+      }
+    ]
+  },
+  {
+    "IDhotel": 2,
+    "name": "ONIP",
+    "Price": {
+      "Standard Room": 100,
+      "Superior Room": 150,
+      "Single Bed": 35,
+      "Double Bed": 40,
+      "Twin Bed": 50
+    },
+    "BlankRoom": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "Booked": [],
+    "Standard Room": [
+      0,
+      2,
+      4
+    ],
+    "Superior Room": [
+      1,
+      3,
+      5
+    ],
+    "Single Bed": [
+      2,
+      3
+    ],
+    "Double Bed": [
+      0,
+      1
+    ],
+    "Twin Bed": [
+      4,
+      5
+    ],
+    "ListRoom": [
+      {
+        "IDroom": 0,
+        "TypeRoom": "Standard Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull lovely room",
+        "Price": 140,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 1,
+        "TypeRoom": "Superior Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 190,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 2,
+        "TypeRoom": "Standard Room",
+        "Bed": "Single Bed",
+        "Describe": "it's a beautifull",
+        "Price": 135,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 3,
+        "TypeRoom": "Superior Room",
+        "Bed": "Single Bed",
+        "Describe": "it's lovely",
+        "Price": 185,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 4,
+        "TypeRoom": "Standard Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 150,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 5,
+        "TypeRoom": "Superior Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 200,
+        "image": "tree.png"
+      }
+    ]
+  },
+  {
+    "IDhotel": 3,
+    "name": "SANDRA",
+    "Price": {
+      "Standard Room": 85,
+      "Superior Room": 105,
+      "Single Bed": 15,
+      "Double Bed": 30,
+      "Twin Bed": 55
+    },
+    "BlankRoom": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "Booked": [],
+    "Standard Room": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "Superior Room": [
+      0,
+      2
+    ],
+    "Single Bed": [
+      1,
+      5
+    ],
+    "Double Bed": [
+      0,
+      2
+    ],
+    "Twin Bed": [
+      3,
+      4
+    ],
+    "ListRoom": [
+      {
+        "IDroom": 0,
+        "TypeRoom": "Superior Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull lovely room",
+        "Price": 135,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 1,
+        "TypeRoom": "Standard Room",
+        "Bed": "Single Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 100,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 2,
+        "TypeRoom": "Superior Room",
+        "Bed": "Double Bed",
+        "Describe": "it's a beautifull",
+        "Price": 135,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 3,
+        "TypeRoom": "Standard Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's lovely",
+        "Price": 140,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 4,
+        "TypeRoom": "Standard Room",
+        "Bed": "Twin Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 140,
+        "image": "tree.png"
+      },
+      {
+        "IDroom": 5,
+        "TypeRoom": "Standard Room",
+        "Bed": "Single Bed",
+        "Describe": "it's a beautifull lovely room, with pretty view to the sea",
+        "Price": 100,
+        "image": "tree.png"
+      }
+    ]
+  }
+]
